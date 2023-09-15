@@ -1,0 +1,48 @@
+header{
+    display: block;
+    width: 100%;
+    height: 55px;
+    background-color: rgb(50, 54, 57);
+}
+
+header img{
+    width: 25px;
+    height: 25px;
+    margin-left: 30px;
+    margin-top: 15px
+}
+
+header h1{
+    font-size: 15px;
+    color: white;
+    margin-left: 80px;
+    position: relative;
+    bottom: 23px;
+}
+
+header input{
+    width: 20px;
+    height: 20px;
+    margin-left: 480px;
+    position: relative;
+    bottom: 50px;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.span{
+    position: relative;
+    bottom: 51px;
+    color: white;
+    margin-left: 2px;
+}
+
+#zoom{
+    margin-left: 600px;
+    position: relative;
+    bottom: 70px;
+}
+

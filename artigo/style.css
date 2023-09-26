@@ -1,3 +1,4 @@
+
 #pagina1 {
     background-color: #7834a4; 
     display: block; 
@@ -32,3 +33,110 @@ p{
     
 
 }
+
+header{
+    display: block;
+    width: 100%;
+    height: 55px;
+    background-color: rgb(50, 54, 57);
+    position: fixed;
+}
+
+header img{
+    width: 25px;
+    height: 25px;
+    margin-left: 30px;
+    margin-top: 15px
+}
+
+header h1{
+    font-size: 15px;
+    color: white;
+    margin-left: 80px;
+    position: relative;
+    bottom: 23px;
+}
+
+header input{
+    width: 20px;
+    height: 20px;
+    margin-left: 480px;
+    position: relative;
+    bottom: 50px;
+    align-items: center;
+    text-align: center;
+    background-color: black;
+    color: white;
+    border: none;
+}
+
+.span{
+    position: relative;
+    bottom: 51px;
+    color: white;
+    margin-left: 2px;
+}
+
+#traço{
+    display: block;
+    width: 1px;
+    height: 20px;
+    background-color: dimgrey;
+    margin-left: 550px;
+    position: relative;
+    bottom: 72px;
+}
+
+#zoom{
+    margin-left: 570px;
+    position: relative;
+    bottom: 102px;
+    color: white;
+    font-size: 25px;
+}
+
+#zoom2{
+    width: 50px;
+    height: 20px;
+    background-color: black;
+    border: none;
+    text-align: center;
+    position: relative;
+    right: 470px;
+    bottom: 103px;
+}
+
+#zoom3{
+    font-size: 25px;
+    color: black;
+    position: relative;
+    right: 465px;
+    bottom: 102px;
+    color: white;
+}
+
+#traço2{
+    width: 1px;
+    height: 20px;
+    background-color: dimgray;
+    margin-left: 685px;
+    position: relative;
+    bottom: 128px;
+}
+
+#icones{
+    width: 70px;
+    height: 35px;
+    margin-left: 700px;
+    position: relative;
+    bottom: 170px;
+}
+
+#icones2{
+    width: 120px;
+    height: 35px;
+    margin-left: 1150px;
+    position: relative;
+    bottom: 220px;
+}
+

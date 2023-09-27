@@ -1,4 +1,5 @@
 
+
 #pagina1 {
     background-color: #7834a4; 
     display: block; 
@@ -39,7 +40,6 @@ header{
     width: 100%;
     height: 55px;
     background-color: rgb(50, 54, 57);
-    position: fixed;
 }
 
 header img{
